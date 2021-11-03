@@ -1,7 +1,7 @@
 # fishfetch
 ## _A screen fetcher but only with the important info_
 
-"screenfetch" or "neofetch" when ran, they fill the entirety of the screen. So i made my own with only the info that i want, and also is much more fast to load.
+"screenfetch" or "neofetch" when ran, they fill the entirety of the screen. So I made my own with only the info that I want, and also is much more fast to load.
 
 - Fast to load
 - Small footprint
@@ -11,9 +11,9 @@ if you download it some commands may not work based on your distro, you may have
 
 ![Screenshot](https://github.com/encarbassot/fishfetch/blob/main/screenshot.png)
 
-And beacose im using Fish as a shell, the ascii-art its a cute fish
+And because I'm using Fish as a shell, the ascii-art is a cute fish
 
-Also there is an option for extended info
+Also, there is an option for extended info
 
 ![Screenshot-large](https://github.com/encarbassot/fishfetch/blob/main/screenshot-large.png)
 
@@ -44,8 +44,8 @@ just edit the `~/.bashrc` and at the end add:
     # or
     ./path/to/fishfetch.sh # if you dont
     ```
-- **usig Fish**
-create a file `~/.config/fish/config.fish` if doesnt exist and add the same line
+- **using Fish**
+create a file `~/.config/fish/config.fish` if it doesn't exist and add the same line
     ```sh
     fishfetch   # if you set on the path
     # or
